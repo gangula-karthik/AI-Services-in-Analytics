@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BAG_0406_png.rf.2ed43c4bed62a41400d26c70e7b23257.jpg</filename>
+	<path>BAG_0406_png.rf.2ed43c4bed62a41400d26c70e7b23257.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SHURIKEN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>225</xmax>
+			<ymin>265</ymin>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

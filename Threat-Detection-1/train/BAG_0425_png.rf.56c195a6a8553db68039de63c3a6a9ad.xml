@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BAG_0425_png.rf.56c195a6a8553db68039de63c3a6a9ad.jpg</filename>
+	<path>BAG_0425_png.rf.56c195a6a8553db68039de63c3a6a9ad.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BLADE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>262</xmax>
+			<ymin>209</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>
