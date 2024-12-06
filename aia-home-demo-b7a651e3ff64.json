@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aia-home-demo",
+  "private_key_id": "b7a651e3ff64482e6117175c95d24b0361eb0d5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEfXTRjxrVg/oa\nk8VneszX4EQR+PfsWYy3QXn9gRBXR5RWWjz3KNJPImxvyk7PZKflAveuZNHe/RPN\nrK33ek+GJeKf85YfecOQ6pAbZvQM2Ck3vW0nvkSkoDKeH/ZcpO3Nc5aKIgBALJTe\n+0tElunOx5atCFh2iAC/FCiQEoDvca7w6z4nXB8ZIbTf4FuXnfjny/sIkcV5l5ea\nOTibw6Xg9RTvkojlAKpY4QGBY1VSq68tXqo+xDX1VJ/i5N5GpbwF/DZLOp+fW+e6\nBwr9skDu7iblsqku/eC9qNlOCs/Fp85+BPJsnl5TzZ1Ny73HRVCCLfS/5QV+6Q7n\nJqQjdRtRAgMBAAECggEAA2pKaps9QQ/Oe/UskOXHNxgmGe/ek0rJ+AqlzalKhbg8\n4YFanoS+a9l/BZrNFhK7gYhn+K22h7sukG+B0i1CKGRyyD5W67+7wMJeJ3PGWY2a\nR2ZxLFsrKaqOwEVxWUV7ZdiuYA+pbg24URkQdlk79Os7X1Ent6uzSgVWLSbjlQXR\n5nYnVM9WsJKoz3wMKfmim4CV6d5ZBp+Ir4XgLkWNTttJf62a5U+B832ocFRL+vYA\npWGmNQrlz3Wt1adxb1eOPuTllojTaDTIWRGQCkveghg04fqE127QkAF+KJDnkIC3\nCFZlndUzPCNnn+qBLqNRvLxzLtGShDE1rTNSTFo3dwKBgQDzwOIXMf7PfVudD643\nP9v41HmoWPUwJaJjBloHyNXq+GKK5eS0h2CHQZ7eYETD+JWsPF5ou32LfXNpvC1b\naODlISMifCpZoO0ChVnRvgl3rTp/oc+U1RQNOOjPOZPhAEdImyiIIwUmRVJekO37\nCzVQXOxxbKjxy8FVXO+FlWlFBwKBgQDOXK3jKbaCiB7eXDHzhkGn5uos6u3OIEEk\nhLuuX/elSWQYge+YEJWVPG2YVWK6mdkmkO0cV8P35n+hl2fpQrlEpSt+PPUu3G65\n0dWKL7NkjzA7MQ21OujFYLwMC173+9A7k2L/xu59/JVStl1eJ4hDjgJybozuG+Zs\nNHpWylce5wKBgHtyuU50BI/C9i3yLhJPJjG8Miz/eJW8yaQLKHd+0FAjIY0k5xJC\n6bE2m6YV7V2uvOaw4EN8iRWnIFdxdSsxT4zbnnatmakw5jf7n0SpURQqSFExevbu\nfyw/ITEqAOnYAUIVSo6/5bC/NPstvUkCISslFJ5RILLstWptGeV2iQzrAoGBAMCU\nbRJZkyEttuD8WQFSgWMXc+KHO3XpU+GonR2WIZ32Z5sXZ2kZ0P58biqDRKeve58q\nEJ0qqo9mZCWBDk/5HLybB4O/j3Az9oEi+Y0EBv4JQpF6rbg7SY8pP1ReKDp0nVd7\nrB/Wniqk1RVjaq67ZcbleBMiaBKtptPEBYeJPNRxAoGAV2TRzdeKwgYCzuj3bH6w\nWjlBRJPuNPoJ0zH6yd2RaEnoPL8m+oQPlGdxYEbOQQKjVfCDma1FvffPq3XgVtPe\nyoqDjpnfwHoiKWgDDpxqXdAuV2Mfx9LGNcfRyyr1uNEQsLkDL1MCkZTCbk0j7jGw\nD/cnsAe2uUoLaFoc/t/LRWE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "karthik-key-gcp-aia@aia-home-demo.iam.gserviceaccount.com",
+  "client_id": "114726768097518321536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/karthik-key-gcp-aia%40aia-home-demo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
