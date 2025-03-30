@@ -35,16 +35,14 @@ This project focuses on enhancing airport security through AI-powered X-ray imag
     ```
 
 ## 🚀 Usage
-1. Place X-ray baggage images in the `dataset/threat_items_dataset` folder
-2. Run the data preparation notebook:
+1. Run the data preparation notebook:
     ```bash
     jupyter notebook DataPreparation.ipynb
     ```
-3. Execute the AutoML training notebook:
+2. Execute the AutoML training notebook:
     ```bash
     jupyter notebook AutoML.ipynb
     ```
-4. View results in the Threat-Detection-1 folder
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
