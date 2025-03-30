@@ -4,6 +4,9 @@
   <img src="https://github.com/user-attachments/assets/6c49ad12-f63f-40b2-8429-0be598e293e7" width="399" alt="Screenshot 2025-03-30 at 11 16 43 AM">
 </p>
 
+> [!NOTE]
+> project walkthrough: [https://youtu.be/-ADWRyM4lMo](https://youtu.be/-ADWRyM4lMo)
+
 ## 📋 Project Overview
 This project focuses on enhancing airport security through AI-powered X-ray image analysis. Using AutoML and computer vision techniques, we develop models to detect dangerous items like guns, blades, shurikens, and knives in baggage scans. With global airports handling approximately 4.5 billion passengers and 6.75 billion pieces of luggage annually, this solution aims to improve security efficiency while reducing human error rates that can reach up to 20%.
 
@@ -13,7 +16,6 @@ This project focuses on enhancing airport security through AI-powered X-ray imag
 - 📊 Detection and visualization of dangerous items
 - 📈 Model performance analysis and reporting
 - 🎯 Support for detecting guns, blades, shurikens, and knives
-- 📉 Real-time threat detection with 70-90% accuracy improvement
 
 ## 🛠️ Technologies Used
 - 🐍 Python
